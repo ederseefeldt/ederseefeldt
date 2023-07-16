@@ -1,7 +1,13 @@
-Olá mundo! Meu nome é Eder.
+Olá! Sou Eder e tenho 21 anos.
 
-- 🔭 Atualmente sou estagiário no setor de tecnologia da informação do IFSUL-Visconde da Graça(CAVG)
-- 🌱 Estou no 4º e último semestre de Análise e Desenvolvimento de Sistemas
+Formado em Desenvolvimento de Sistemas pelo IFSUL, atualmente trabalho no setor de Tecnologia da Informação da Escola Mario Quintana, atuando no suporte e testes de softwares desenvolvidos para a escola.
+
+Sempre buscando evoluir, estou aprofundando meus conhecimentos na área de Desenvolvimento de Softwares e Ciência de Dados.
+
+Dedicação, atenção e foco fazem parte da construção do meu sonho, e isso é imprescindível para mim quando se trate de fazer algo bem feito.
+
+Qualquer dúvida estou à disposição!
+
 - 📫 Email para contato: ederseefeldt2002@gmail.com
 
 <div align="center">
